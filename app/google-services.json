@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "863340671137",
+    "project_id": "intershalanotesassinement",
+    "storage_bucket": "intershalanotesassinement.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863340671137:android:04f10f694f28cd054c80e0",
+        "android_client_info": {
+          "package_name": "com.example.intershalanotesassinement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6DHHXIgUaSI2U8RM3hW15KDZ37f-6hpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
